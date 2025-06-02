@@ -10,3 +10,5 @@ With this, colors can be tuned easily across the app and plot functions can be r
 In case your Shiny app is using [bslib](https://rstudio.github.io/bslib/) to build the ui, then it's even possible to reuse the global app theme to feed this color variable and share it to all your plots.
 
 This tutorial demonstrates how to implement this approach.
+
+![](screenshot.png)
