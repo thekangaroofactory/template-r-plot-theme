@@ -1,4 +1,4 @@
-# Make your plot fit with the global app theme
+# Make your plot match with the global app theme
 
 Plots generated with [ggplot2](https://ggplot2.tidyverse.org/) library can be customized to improve data visualization & user experience.
 
